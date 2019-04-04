@@ -16,16 +16,16 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/IMG_1035.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Tomasz Skierkowski'
+author: 'Tomasz Skierkowski'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+url: "https://dalekojeszcze.eu" # the base hostname & protocol for your site
+baseurl: "https://dalekojeszcze.eu"
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@dalekojeszcze.eu'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
