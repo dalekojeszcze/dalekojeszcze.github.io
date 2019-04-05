@@ -1,39 +1,40 @@
 ---
 layout: post
-title:  "Tydzien na bliskim wschodzie"
-date:   2019-04-05 09:30:00
+title:  "Mediator Features"
+date:   2014-11-30 14:34:25
 categories: mediator feature
-tags: podroze
-
+tags: featured
+image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
-#Tydzien na bliskim wschodzie
+#Mediator Formats and CSS features
 
-Przykladowy layout posta TS
+Examples for different formats and css features
 
-#Maglowek
-#Naglowek1
-##Naglowek2
+#Header Formats
+#Header1
+##Header2
 
-#Cytat
->To jest przyklad na to jak wyglada cytowany tekst
+#Blockquotes
+>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
 
-#Listy
-##porzadkowana lista
-1. jeden
-2. dwa
-3. trzy
+#Lists
+##orderd lists
+1. one
+2. two
+3. three
 
-##Lista bez numerow
-- punkt zielony
-- punkt bialy
-- punkt czerwony
+##unorderd lists
+- Apple
+- Banana
+- Plum
 
-#Linki
-To jest [link do Booking](https://booking.com "A to jego tytul").
+#Links
+This is an [example link](http://example.com/ "With a Title").
 
-#Przekombinowane
->ten sam cytowany tekst
+#Combinations
+>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
 >
-> - cytoway punkt listy
-> - drugi
-> - siedemnasty
+> - Apple
+> - Banana
+> - Plum

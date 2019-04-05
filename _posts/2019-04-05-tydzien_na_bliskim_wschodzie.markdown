@@ -4,10 +4,8 @@ title:  "Tydzien na bliskim wschodzie"
 date:   2019-04-05 09:30:00
 categories: mediator feature
 tags: podroze
-
+image: /assets/article_images/2019-04-05-tydzien_na_bliskim_wschodzie/IMG_Banksy.JPG
 ---
-#Tydzien na bliskim wschodzie
-
 Przykladowy layout posta TS
 
 #Maglowek
