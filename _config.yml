@@ -47,14 +47,14 @@ social:
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+ 
+  - icon:	instagram
+    url:	https://www.instagram.com/dalekojeszcze.eu/
+    desc:	Follow me on Instagram
     share_url:
     share_title:
     share_link:
-
+    
 #  - icon:	google-plus
 #    url:	https://google.com/???
 #    desc:	Add me on google+
