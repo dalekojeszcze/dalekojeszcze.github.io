@@ -9,5 +9,5 @@ permalink: /about/
 O blogu
 ======
 
-Ten blog postwal w celu dzielenia sie wrazeniami. Uwaga! blog zawiera tresci uzyteczne!
-Jesli podrozujesz i lubisz aktywnie spedzac czas jest szansa, ze najdziesz tu cos ciekawego dla siebie
+>Ten blog postwal w celu dzielenia sie wrazeniami. Uwaga! blog zawiera tresci uzyteczne!
+>Jesli podrozujesz i lubisz aktywnie spedzac czas jest szansa, ze najdziesz tu cos ciekawego dla siebie
