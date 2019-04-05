@@ -1,7 +1,8 @@
 ---
 layout: page
 title: O blogu
-image: /assets/images/IMG_3057.JPG
+image: /assets/article_images/2019-03-17-aqaba_i_wadi_rum/IMG_2607.JPG
+image2: /assets/article_images/2019-03-17-aqaba_i_wadi_rum/IMG_2607_mobile.JPG
 permalink: /o-blogu/
 ---
 
