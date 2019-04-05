@@ -1,7 +1,8 @@
 ---
 layout: page
 title: O blogu
-image: /assets/images/IMG_2259.JPG
+image: /assets/images/IMG_2559.JPG
+image2: /assets/images/IMG_2559_mobile.JPG
 permalink: /o-blogu/
 ---
 
