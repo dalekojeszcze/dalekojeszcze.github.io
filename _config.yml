@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Daleko jeszcze?"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Osobisty blog do dzielenia sie uzytecznymi tresciami
 
-email: a-mail@mail.mail
+email: dalekojeszcze.eu@outlook.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
@@ -18,12 +18,12 @@ cover: "/assets/images/IMG_1153.JPG"
 
 name: 'Tomasz Skierkowski'
 author: 'Tomasz Skierkowski'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/Tomasz.jpg"
 
 paginate:	5
 
 url: "https://dalekojeszcze.eu" # the base hostname & protocol for your site
-baseurl: "https://dalekojeszcze.eu"
+baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dalekojeszcze.eu'
 
