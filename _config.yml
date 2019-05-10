@@ -1,8 +1,8 @@
 name: Alpha
 description: Alphs template for Jekyll
-baseurl: '/Alpha-Jekyll-Theme'
+baseurl: 'dalekojeszcze.eu'
 
-url: "http://localhost:4000"
+url: "https://dalekojeszcze.eu"
 
 paginate: 10
 
