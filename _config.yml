@@ -4,7 +4,7 @@ meta_description: "Garsc tematow, ktorymi chce sie podzielic ..."
 
 markdown: kramdown
 highlighter: pygments
-logo: false
+logo: /assets/images/kasper-theme-index.png
 paginate: 15
 baseurl: /
 domain_name: 'https://dalekojeszcze.eu'
