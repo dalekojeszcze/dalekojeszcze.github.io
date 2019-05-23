@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ach... Aachenchen krotko"
+title:  "Ach... Aachen krotko"
 date:   2014-11-30 14:34:25
 categories: podroze, travel
 tags: Niemcy, Germany, Deutschland
