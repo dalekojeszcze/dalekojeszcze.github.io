@@ -13,8 +13,8 @@ permalink: /:title/
 
 # Authors
 authors:
-  author:
-    name: Tomasz
+  autor:
+    name: Autor
     display_name: Tomasz
     avatar: 'assets/images/avatar.png'
     email: dalekojeszcze.eu@outlook.com
