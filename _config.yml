@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  tomasz:
     name: Tomasz
     display_name: Tomasz
     avatar: 'assets/images/avatar.png'

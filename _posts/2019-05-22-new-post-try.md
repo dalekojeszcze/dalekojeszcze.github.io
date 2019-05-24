@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test mojego posta"
-author: Tomasz
+author: tomasz
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/cockpit.jpg
