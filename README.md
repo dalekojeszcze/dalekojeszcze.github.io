@@ -1,65 +1,39 @@
-# Fractal - Jekyll Theme
+Travelog Theme
+---
 
-A Jekyll version of the "Fractal" theme by [HTML5 UP](https://html5up.net/).
+Travelog is a theme for [Jekyll](http://jekyllrb.com/) that is both elegant and downright simple.
 
-![Fractal Theme](assets/images/fractal.jpg "Fractal Theme")
+![](http://i.imgur.com/FrNwKav.png)
 
-# How to Use
+In addition to being devilishly handsome, it is responsive down to mobile and has a very light footprint. Travelog lends itself well to photography and travel journaling.
 
-For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
-and [creating pages](https://jekyllrb.com/docs/pages/).
+It has been designed to be an easy layout to modify for your own blog. See the installation instructions below to get started.
 
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file!
+### Demo
 
-# Issues
+See the theme in action [here](http://travelog.io/).
 
-If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/fractal-jekyll-theme) and I will be more than happy to help!
+### Installation
 
-Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/fractal-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/fractal-jekyll-theme@incoming.gitlab.com).
+- Install Jekyll: `gem install jekyll`
+- [Fork this repository](https://github.com/rowanoulton/travelog-theme/fork)
+- Clone it: `git clone https://github.com/YOUR-USER/travelog-theme`
+- Run the jekyll server: `jekyll serve -w`
 
-The GitHub repository is simply a mirror of the GitLab repository.
+You should have a server up and running locally at <http://localhost:4000>.
 
-# Credits
+### Customization 
 
-Original README from HTML5 UP:
-
-```
-Fractal by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+To customize the theme to your hearts content, check out what's in `_config.yml` as that's where you'll pull your name, Twitter username, things like that.
 
 
-A simple landing page template for showcasing mobile apps (although it'll definitely work
-for other stuff if you get rid of the phone :) Lightweight, fully responsive, and built on
-Skel 3, Sass, and flexbox.
+### Deployment
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+Travelog is designed to be deployed to [GitHub Pages](https://pages.github.com/). 
 
 
-Credits:
+### License
 
-	Demo Images:
-		Unsplash (unsplash.com)
+[MIT](https://github.com/rowanoulton/travelog-theme/blob/master/LICENSE)
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		Respond.js (j.mp/respondjs)
-		jquery.scrolly (@ajlkn)
-		Skel (skel.io)
-
-```
-
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+Attribution is totally not necessary, use it as you please. If you'd like to throw me a shoutout or say thanks, I'm on [@rowanoulton](https://twitter.com/rowanoulton/).
