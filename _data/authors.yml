@@ -1,0 +1,99 @@
+mtnBarreto:
+  display_name: Martin Barreto
+  image: members/martin.jpg
+  twitter: mtnBarreto
+  github: mtnBarreto
+  profile_url: https://twitter.com/mtnBarreto
+agustin:
+  display_name: Agustin Hernandez
+  image: members/agustin.jpg
+  twitter: awstinh
+  github: agustinh17
+  profile_url: https://twitter.com/awstinh
+dernst:
+  display_name: Diego Ernst
+  image: members/dernst.jpg
+  github: dernster
+  profile_url: https://github.com/dernster
+esanchez:
+  display_name: Ezequiel Santiago Sanchez
+  image: members/esanchez.jpg
+  github: squiel91
+  profile_url: https://twitter.com/squiel91
+enrique:
+  display_name: Enrique Galindo
+  image: members/enrique.jpg
+  twitter: enrigalmig
+  github: enrigalmig
+  profile_url: https://github.com/enrigalmig
+alberto:
+  display_name: Alberto Attia
+  image: members/alberto.jpg
+  twitter: https://twitter.com/aattia
+  github: mtnBarreto
+  profile_url: https://twitter.com/aattia
+maximo:
+  display_name: Maximo Mussini
+  image: members/maximo.jpg
+  twitter: maximomussini
+  github: ElMassimo
+  profile_url: https://github.com/ElMassimo
+mathias:
+  display_name: Mathias Claassen
+  image: members/mathias.jpg
+  twitter: https://twitter.com/mClaassen26
+  github: mats-claassen
+  profile_url: https://github.com/mats-claassen
+santiago:
+  display_name: Santiago Castro
+  image: members/santiago.jpg
+  twitter: https://twitter.com/bryant1410
+  github: bryant1410
+  profile_url: https://github.com/bryant1410
+helen:
+  display_name: Helen Olhausen
+  image: members/helen.jpg
+  twitter: https://twitter.com/helOlhausen
+  github: helOlhausen
+  profile_url: https://github.com/helOlhausen
+remer:
+  display_name: Miguel Revetria
+  image: members/remer.jpg
+  github: m-revetria
+  profile_url: https://github.com/m-revetria
+mirland:
+  display_name: Matías Irland
+  image: members/mirland.jpg
+  github: matir91
+  profile_url: https://github.com/matir91
+mcousillas:
+  display_name: Mauricio Cousillas
+  image: members/cousillas.jpg
+  twitter: https://twitter.com/CousillasM
+  github: mcousillas6
+  profile_url: https://github.com/mcousillas6
+xl:
+  display_name: Xmartlabs Team
+  image: members/xl.png
+  github: xmartlabs
+  profile_url: https://github.com/xmartlabs
+felipe:
+  display_name: Felipe de León
+  image: members/felipe.jpg
+  github: f7deleon
+  profile_url: https://github.com/f7deleon
+mlorenzo:
+  display_name: Matías Lorenzo
+  image: members/mlorenzo.jpg
+  github: mlvieras
+  profile_url: https://github.com/mlvieras
+jrocco:
+  display_name: Joaquín Rocco
+  image: members/jrocco.jpg
+  github: joaquinrok
+  profile_url: https://github.com/joaquinrok
+pbt:
+  display_name: Rodrigo Bayá
+  image: members/pbt.jpg
+  github: pbt31
+  profile_url: https://github.com/pbt31
