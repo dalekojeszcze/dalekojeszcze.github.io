@@ -1,5 +1,5 @@
 title: Dalekojeszcze? | blog osobisty
-logo:  '/assets/img/favicon__.jpg'
+logo: '/assets/img/TS_c.JPG'
 description: Wrazenia, ktorymi warto sie dzielic!
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://dalekojeszcze.eu" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +8,7 @@ url: "https://dalekojeszcze.eu" # the base hostname & protocol for your site, e.
 # Author Settings
 author:
   name: Tomasz Skierkowski
-  image: '/assets/img/TSK.JPG'
+  image: '/assets/img/TS_c.JPG'
   job: Daleko jeszcze?
   bio: podroze mniejsze i wieksze | atrakcje | sport | wrazenia | ... i wszystko inne
   email: dalekojeszcze@outlook.com
