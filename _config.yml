@@ -1,6 +1,6 @@
-title: Derrick Wells – Independent Product Designer
-logo:  # you can add own logo.
-description: Notatki, ktorymi warto sie podzielic.
+title: Dalekojeszcze? | blog osobisty
+logo:  '/assets/img/favicon__.jpg'
+description: Wrazenia, ktorymi warto sie dzielic!
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://dalekojeszcze.eu" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -8,9 +8,9 @@ url: "https://dalekojeszcze.eu" # the base hostname & protocol for your site, e.
 # Author Settings
 author:
   name: Tomasz Skierkowski
-  image: '/assets/img/01.jpg'
-  job: ciekawski odkrywca
-  bio: tata | maz | podroznik | odkrywca | seryjny maratonczyk | i wiele innych ... daleko jeszcze?
+  image: '/assets/img/TSK.JPG'
+  job: Daleko jeszcze?
+  bio: podroze mniejsze i wieksze | atrakcje | sport | wrazenia | ... i wszystko inne
   email: dalekojeszcze@outlook.com
 
 
