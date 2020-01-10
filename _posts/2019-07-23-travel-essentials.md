@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Travel Essentials
-date:   2019-07-24 14:01:35 +0300
+date:   2020-01-10 17:01:35
 image:  '/assets/img/06.jpg'
 tags:   Dupa
 ---
