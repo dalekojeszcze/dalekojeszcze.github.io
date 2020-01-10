@@ -1,5 +1,5 @@
 title: Dalekojeszcze? | blog osobisty
-logo: favicon__.jpg
+logo: dj_geel_logo_small.jpg
 description: Wrazenia, ktorymi warto sie dzielic!
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://dalekojeszcze.eu" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ url: "https://dalekojeszcze.eu" # the base hostname & protocol for your site, e.
 author:
   name: Tomasz
   image: '/assets/img/image_main.jpg'
-  job: daleko jeszczeeee?
+  job: daleko jeszczeee?
   bio: podroze | sport | wrazenia | emocje
   email: dalekojeszcze@outlook.com
 
