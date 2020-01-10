@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Nowy rok - 2020 rok blogowania!"
-date:   2020-01-10 14:55:00
-image:  '/assets/img/nyan_cat.jpg'
-tags:   [Jekyll, Dupa, Anglia, Kwas]
+title:  "Welcome to Jekyll!"
+date:   2018-05-29 18:05:55 +0300
+image:  '/assets/img/03.jpg'
+tags:   Jekyll
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
