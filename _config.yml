@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "dalekojeszcze?"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Daleko jeszcze?
 
 email: a-mail@mail.mail
 #blog logo
@@ -22,10 +22,10 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://dalekojeszcze.eu" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@dalekojeszcze_eu'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
