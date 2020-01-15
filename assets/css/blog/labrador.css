@@ -30,7 +30,7 @@ html {
   background-color: #202020;
 }
 @media (min-width: 48em) {
-  .sidebar {
+/*  .sidebar {
     position: fixed;
     top: 0;
     left: 0;
@@ -66,7 +66,7 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
-}
+} */
 .blog-posts {
   padding: 0;
 }
@@ -87,7 +87,7 @@ a.sidebar-nav-item:focus {
     font-size: 18px;
 }
 
-.social {
+/*.social {
   width: 100%;
   margin: 20px 0;
   padding: 0;
@@ -109,7 +109,7 @@ a.sidebar-nav-item:focus {
 }
 .social li a:last-child {
   margin-right: 0;
-}
+} */
 
 @media (min-width: 48em) {
   .sidebar-sticky {
