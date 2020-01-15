@@ -1,35 +1,63 @@
-# lucas gatsas Theme/Blog - Jekyll Theme
-# the library theme: https://github.com/SpaceG/library
-# Author: LucasGatsas
-# Theme: library
-# Source: https://github.com/spaceg/library
-# Mail: space@lucasgatsas.ch
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
 
 # Site settings
-title: Amokläufer
-#What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
-event_label: Events
+title: "Mediator"
+description: > # this means to ignore newlines until "email:"
+   A Jekyll theme - Medium inspired
 
-description: > # "
-  Lucas Gatsas, is a Web -Developer, Front -End Engineer & UI/UX Designer based in  St. Gallen, Switerland.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.lucasgatsas.ch" # the base hostname & protocol for your site
+email: a-mail@mail.mail
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+float_logo: true # true, false (default)
 
-#These settings might be able to go?
-author: Lucas Gatsas
-twitter_username: lucasgatsas
-github_username:  spaceg
-company_name: lucasgatsas
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-# Build settings
-markdown: kramdown
+name: 'Dirk Fabisch'
+author: 'Dirk Fabisch'
+author_image: "/assets/images/author.jpg"
 
-#Have to show future posts for future events.
-future: true
+paginate:	5
 
-permalink: /event/:title.html
+url: "http://myblog.***.***" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@dirkfabisch'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/dirkfabisch
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/dirkfabisch
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
