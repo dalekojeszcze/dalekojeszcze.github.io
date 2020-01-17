@@ -1,11 +1,14 @@
-<!-- footer start -->
+<!-- begin footer -->
+<footer class="footer">
+  <div class="container">
 
-<footer class="site-footer">
-  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-    <div class="inner">
-         <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-         <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-    </div>
+    {% include subscribe.html %}
+    
+    {% include instagram.html %}
+
+    {% include contact-link.html %}
+
+    <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/">{{ site.data.settings.title }}</a> — All right Reserved. Power by <a href="https://jekyllrb.com/">Jekyll</a>.</div>
+</div>
 </footer>
-
-<!-- footer end -->
+<!-- end footer -->

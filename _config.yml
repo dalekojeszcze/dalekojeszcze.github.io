@@ -1,63 +1,35 @@
+baseurl:  # the subpath of your site, e.g. /blog
+url: "https://dalekojeszcze.eu" # the base hostname & protocol for your site, e.g. http://example.com
+
+
 # Build settings
-gems:
-  - jemoji
+markdown: kramdown
+permalink: pretty
+plugins:
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
 
-# Site settings
-title: "dalekojeszcze?"
-description: > # this means to ignore newlines until "email:"
-   Daleko jeszcze?
+paginate: 5
+paginate_path: "/page/:num"
 
-email: a-mail@mail.mail
-#blog logo
-logo: "/assets/images/dl_geel_logo.jpg"
-float_logo: true # true, false (default)
 
-# blog cover
-cover: "/assets/images/image_main.jpg"
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
 
-name: 'Tomasz'
-author: 'Tomasz'
-author_image: "/assets/images/author.jpg"
+include:
+  - _pages
 
-paginate:	5
 
-url: "https://dalekojeszcze.eu" # the base hostname & protocol for your site
-baseurl: ""
-#used to display twitter cards
-twitter_handle: '@dalekojeszcze_eu'
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
 
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
-
-#google_analytics: UA-XXXXX-X
-
-# social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+sass:
+  sass_dir: _sass
+  style: compressed
