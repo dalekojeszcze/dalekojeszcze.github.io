@@ -1,44 +1,17 @@
-<nav class="pagination">
-  <div class="container">
-    <div class="pagination__list">
-
-      {% if paginator.previous_page %}
-      
-      {% if paginator.previous_page == 1 %}
-        <a class="previous-link" href="/">Prev Posts</a>
-      {% else %}
-        <a class="previous-link" href="/page/{{ paginator.previous_page }}/">Prev Posts</a>
-      {% endif %}
-      
-      {% else %}
-        <span class="disabled">Prev Posts</span>
-      {% endif %}
-
-      <div class="counter-box">
-        {% if paginator.page == 1 %}
-          <span class="active-link">1</span>
-        {% else %}
-          <a href="/">1</a>
-        {% endif %}
-
-
-        {% for count in (2..paginator.total_pages) %}
-
-        {% if count == paginator.page %}
-          <span class="active-link">{{ count }}</span>
-        {% else %}
-          <a class="count-number" href="/page/{{ count }}/">{{ count }}</a>
-        {% endif %}
-        {% endfor %}
-      </div>
-
-      {% if paginator.next_page %}
-      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Next Posts</a>
-      {% else %}
-        <span class="disabled">Next Posts</span>
-      {% endif %}
-
-
-    </div>
+{% if paginator.previous_page %}
+  <div class='o-grid__col o-grid__col--2-4-s'>
+    <a class='c-pagination' href='{{ paginator.previous_page_path | prepend: site.baseurl }}'>
+      <div class='c-pagination__icon c-pagination__icon--prev' data-icon='ei-chevron-left'></div>
+      <span class='c-pagination__text c-pagination__text--prev'>Previous</span>
+    </a>
   </div>
-</nav>
+{% endif %}
+
+{% if paginator.next_page %}
+  <div class='o-grid__col o-grid__col--end o-grid__col--2-4-s u-text-right'>
+    <a class='c-pagination' href='{{ paginator.next_page_path | prepend: site.baseurl }}'>
+      <span class='c-pagination__text c-pagination__text--next'>Next</span>
+      <div class='c-pagination__icon c-pagination__icon--next' data-icon='ei-chevron-right'></div>
+    </a>
+  </div>
+{% endif %}

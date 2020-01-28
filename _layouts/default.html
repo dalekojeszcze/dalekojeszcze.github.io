@@ -1,29 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en'>
 
 {% include head.html %}
 
 <body>
 
-  {% if site.data.settings.google-analytics %}
-  {% include google-analytics.html %}
-  {% endif %}
+  {% include analytics.html %}
 
-  {% include header.html %}
+  <div class='js-off-canvas-container c-off-canvas-container'>
+    {% include header.html %}
 
-  <!-- begin content -->
-  <main class="content" aria-label="Content">
     {{ content }}
-  </main>
-  <!-- end content -->
 
-  <div class="top ion ion-ios-arrow-up" title="Top"></div>
+    {% include footer.html %}
+  </div>
 
-  {% include search.html %}
-
-  {% include footer.html %}
-
-  {% include javascripts.html %}
+  <script src="{{ '/js/jquery-3.1.1.min.js' | prepend: site.baseurl }}"> </script>
+  <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>
+  <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}">   </script>
+  <script src="{{ '/js/app.js' | prepend: site.baseurl }}">              </script>
 </body>
 
 </html>
